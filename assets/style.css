@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('img/imagem.fundo3');
+    background: url('img/iagem.rosa');
     font-family: Bai Jamjuree;
 }
 
@@ -99,7 +99,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('img/imagem.fundo3'), no-repeat cover;
+        background: url('img/imagem.rosa'), no-repeat cover;
     }
 
     .cartao {
