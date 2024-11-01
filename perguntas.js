@@ -12,12 +12,12 @@ criaCartao(
 
 criaCartao(
     'Conhecimento',
-    'Qum inventou a lâmpada?',
+    'Quem inventou a lâmpada?',
     'Thomas Edison'
 )
 
 criaCartao(
     'Conhecimento',
-    'Qum pintou a Mona Lisa?',
+    'Quem pintou a Mona Lisa?',
     'Leonardo da Vinci'
 )
