@@ -13,7 +13,7 @@ body {
     display: flex; 
     flex-wrap: wrap;
     justify-content: space-between;
-    padding: 4rem;
+    padding: 6rem;
     gap: 3rem;
 }
 
