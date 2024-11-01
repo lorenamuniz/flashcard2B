@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Conhecimento',
+    'Quem foi a primeira pessoa a viajar no Espaço?',
+    'Yuri Gagarin'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital do Brasil?',
-    'A capital do Brasil é Brasília'
+    'Conhecimento',
+    'Qual a montanha mais alta do mundo?',
+    'Monte Everest'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Conhecimento',
+    'Qum inventou a lâmpada?',
+    'Thomas Edison'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Conhecimento',
+    'Qum pintou a Mona Lisa?',
+    'Leonardo da Vinci'
 )
